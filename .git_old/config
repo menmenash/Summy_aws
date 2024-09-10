@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:menmenash/summy_aws.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = menmenash
