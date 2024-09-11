@@ -53,8 +53,8 @@ Leverages OpenAI's API for text summarization and various AWS services for stora
    
 ## Usage
 
-Summy is at your service!
-      - /set <lang> <word limit> [max chars]: Set configuration.
-      - /summ <url>: Summarize the article at the given URL.
-      - /summ pdf: Summarize an uploaded PDF file.
-      - /resp <response>: Get a follow-up response to the last summary.
+1. Summy is at your service!
+   - /set <lang> <word limit> [max chars]: Set configuration.
+   - /summ <url>: Summarize the article at the given URL.
+   - /summ pdf: Summarize an uploaded PDF file.
+   - /resp <response>: Get a follow-up response to the last summary.
