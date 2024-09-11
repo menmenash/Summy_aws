@@ -3,10 +3,11 @@
 Summy AWS Bot is a Telegram bot that summarizes articles.
 URL\PDF need to be supplied as an input.
 Leverages OpenAI's API for text summarization and various AWS services for storage and configuration management.
+(Originally written as a self-exercise in using AWS, and because GPT does not allow scraping from social networks).
 
 ## Features
 
-- Summarize articles from URLs
+- Summarize articles from URLs - Also from LinkdIn, X (Twitter) etc..
 - Summarize text from PDF files
 - Store and retrieve articles using AWS S3
 - Manage bot configuration with AWS DynamoDB
